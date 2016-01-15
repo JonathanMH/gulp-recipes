@@ -1,0 +1,17 @@
+{
+  "name": "gulp-image-convert",
+  "version": "1.0.0",
+  "description": "Converts a folder of gulp images into another format",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-gm": "0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

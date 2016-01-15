@@ -1,0 +1,3 @@
+**/node_modules
+gulp-image-convert/dist
+gulp-image-resize/dist

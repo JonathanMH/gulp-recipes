@@ -1,0 +1,17 @@
+{
+  "name": "gulp-watch-sass",
+  "version": "1.0.0",
+  "description": "Compile [Sass](http://sass-lang.com/) and watch files for changes with Gulp.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
